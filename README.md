@@ -1,4 +1,4 @@
-# 🍵 Royal Matcha Web App
+# 🍵 Royal Matcha Web
 
 Selamat datang di project **Royal Matcha** — aplikasi web penjualan minuman matcha premium berbasis Laravel 10 & Bootstrap 5.  
 Project ini dibuat untuk memenuhi tugas **Pemrograman Web Lanjut**.
