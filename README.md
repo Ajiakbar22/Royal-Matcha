@@ -24,11 +24,6 @@ Royal Matcha menyediakan berbagai varian minuman matcha dengan fitur:
 | Ramadhan Hilmy Malik        | 23091397009    |
 | Aji Kurnia Akbar            | 23091397029    |
 
----
-
-## 📸 Preview
-
-![Royal Matcha](https://via.placeholder.com/800x400.png?text=Royal+Matcha+Web+Preview)
 
 ---
 
